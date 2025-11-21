@@ -1,0 +1,5 @@
+{
+    "require": {
+        "thedudeguy/rcon": "^1.0"
+    }
+}
